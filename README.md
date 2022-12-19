@@ -1,7 +1,4 @@
 # Water-Level-Predict
-<br>
-
-
 ### 태화강 수위 예측 프로젝트
     
     
@@ -14,4 +11,7 @@
 
 
 ## 3. 분석실행
-    - MyBinder 실행 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kwater-AILab/Water-Level-Predict/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kwater-AILab/Water-Level-Predict/HEAD)
+
+
+## 4. 향후목표
