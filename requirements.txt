@@ -1,0 +1,9 @@
+tensorflow
+xgboost
+numpy 
+pandas 
+matplotlib
+scikit-learn
+DateTime
+missingno
+matplotlib
