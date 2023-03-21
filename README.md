@@ -1,7 +1,7 @@
 # 도시 하천 수위예측
 ### 수위예측 표준모델개발
     
-    
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gapple95/Water-Level-Predict/tree/main/HEAD)    
 ## 1. 목적
   - 댐 하류 도시 중소하천(27개)의 재해 실시간 모니터링과 홍수분석을 위한 시스템(K-water모델) 제공 및 운영 중
   - 데이터 관리 미흡 등으로 홍수 예측 수준 저하 및 시스템 활용 저조
